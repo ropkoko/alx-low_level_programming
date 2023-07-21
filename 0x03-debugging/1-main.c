@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int i];
+	int i;
 
 	printf("infinite loop incoming :(\n");
 
@@ -20,7 +20,7 @@ int main(void)
 
 	printf("infinite loop avoided! \\o/\n");
 
-	return(0);
+	return (0);
 }
 
 
