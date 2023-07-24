@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - with proper grammar, but the outcome is a piece of art,
+ * main - a program that prints a line using printf
  * Return: 0 (succes)
  */
 
