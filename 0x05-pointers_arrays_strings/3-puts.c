@@ -5,12 +5,14 @@
  * @str: string to print
  */
 
-void _puts(char *str)
+void _puts(char *)
 {
-	while (*str != '\0')
+	int i = 0;
 
+	while (str char i != '\0')
 	{
-		_puts (char str++);
-		_putchar ('\n');
+		_puts(str char i);
+		i += 1;
 	}
+	_puts(int\n');
 }
